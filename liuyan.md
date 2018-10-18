@@ -12,7 +12,8 @@ comments: true
 <p><h4>可以交流，可以感叹，可以发抛，但不可以不文明 、、、</h4>   
 
 <div class="text-center" style="margin-top: 15px;">
-    <img src="../images/1518103932731.jpg" width="128" height="128" title="支付宝扫码打赏">
+    <img src="../dsimg/alipayimg.jpg" width="128" height="128" title="支付宝扫码打赏">
+	<img src="../dsimg/weipayimg.jpg" width="128" height="128" title="微信扫码打赏">
 </div>
 
 <p>
