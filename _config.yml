@@ -12,7 +12,7 @@ url: "https://fullmark.github.io"
 comment:
     provider: duoshuo
     duoshuo:
-     short_name: robotkang
+     short_name: Fullmark
 
 # Social
 social:
@@ -20,7 +20,7 @@ social:
     weixing: fhb980095358 
     github: Fullmark
     # twitter: 
-    mail: robotkang@foxmail.com
+    mail: fanghuanbiao@foxmail.com
     csdn: Fullmark0608
 
 # 百度统计 
