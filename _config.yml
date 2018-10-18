@@ -1,12 +1,12 @@
 # Basic
-title: Robotkang
+title: Fullmark
 subtitle: 自留地
 description: 欢迎来到我的个人网站~
 # 头像里面的标题
-avatarTitle: RobotKang
+avatarTitle: Fullmark
 # 头像里面的描述
-avatarDesc: 机器人赛事/嵌入式
-url: "http://robotkang.cc"
+avatarDesc: java开发
+url: "https://fullmark.github.io"
 
 # Comment
 comment:
@@ -16,17 +16,17 @@ comment:
 
 # Social
 social:
-    weibo: 123456789
-    weixing: kang1390305137 
-    github: MengZheK
+    weibo: 13413902817
+    weixing: fhb980095358 
+    github: Fullmark
     # twitter: 
     mail: robotkang@foxmail.com
-    csdn: robotkang
+    csdn: Fullmark0608
 
 # 百度统计 
 # 使用博客模板请去掉或者更换 id 
-baidu:
-    id: 144d500dd9ac4a65465a14b95f3e4ade 
+#baidu:
+ #   id: 144d500dd9ac4a65465a14b95f3e4ade 
 
 # Google Analytics
 # 使用博客模板请去掉或者更换 id
