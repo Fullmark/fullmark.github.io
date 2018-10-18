@@ -1,6 +1,6 @@
 # leopard
 
-[leopard](http://robotkang.cc) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
+[leopard](https://fullmark.github.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
 
 
 可关注我的公众号进一步了解\(^o^)/~
@@ -25,7 +25,7 @@ Jekyll 需要依赖：Ruby、bundler
 在浏览器输入 [127.0.0.1:4000](127.0.0.1:4000) ， 就可以看到博客效果了。  
 
 ### 提示
-如果在部署博客的时候发现问题，可以直接在[message](https://robotkang.cc/liuyan/)里面提问。        
+如果在部署博客的时候发现问题，可以直接在[message](https://fullmark.github.io/liuyan/)里面提问。        
 
 
 #### 感谢   
