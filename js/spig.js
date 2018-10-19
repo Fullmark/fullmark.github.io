@@ -53,7 +53,7 @@ jQuery(document).ready(function ($) {
         showMessage('欢迎' + visitor + '来到Fullmark的个人博客《' + title + '》', 6000);
     }
     $(".spig").animate({
-        top: $(".spig").offset().top + 300,
+        top: $(".spig").offset().top - 300,
         left: document.body.offsetWidth - 160
     },
 	{
