@@ -18,7 +18,7 @@ Jekyll 需要依赖：Ruby、bundler
 
 或者直接[下载博客]( https://github.com/Fullmark/fullmark.github.io/archive/master.zip)   
 
-进kangblog.github.io/ 目录下， 开启本地服务 
+进fullmark.github.io/ 目录下， 开启本地服务 
 
 > $ bundle exec jekyll server
 
