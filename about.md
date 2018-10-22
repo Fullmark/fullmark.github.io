@@ -61,7 +61,7 @@ I'm a single-dog.  But codes and godgirl are my favorite.  Life is colorful, thi
 
 <p> 
 
-博客源码在 <a target="_blank" href='https://github.com/MengZheK/kangblog.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~         
+博客源码在 <a target="_blank" href='https://github.com/Fullmark/fullmark.github.io/' target="_blank" >Github</a> 上，你的 Star 是我更新的动力，谢谢~         
 <p>
 
 <div style="color:#FF0000">

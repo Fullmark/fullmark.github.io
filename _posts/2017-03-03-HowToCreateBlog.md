@@ -66,7 +66,7 @@ tag: 博客
 
 ### 选择博客模板
 
-- 例如，我选择了<a href="https://github.com/leopardpan/leopardpan.github.io/">baixin</a>的博客模板。如果大家喜欢，可以将这个download下来。也可以去<a href="https://github.com/MengZheK/kangblog.github.io/">我的github</a>上fork我的。
+- 例如，我选择了<a href="https://github.com/leopardpan/leopardpan.github.io/">baixin</a>的博客模板。如果大家喜欢，可以将这个download下来。也可以去<a href="https://github.com/Fullmark/fullmark.github.io/">我的github</a>上fork我的。
 
 ### 将模板修改为自己的博客
 
