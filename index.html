@@ -2,6 +2,15 @@
 layout: default
 ---
 
+<script>
+    var _hmt = _hmt || [];
+    (function() {
+        var hm = document.createElement("script");
+        hm.src = "https://hm.baidu.com/hm.js?d4852b1b86d23935f509890459645146";
+        var s = document.getElementsByTagName("script")[0];
+        s.parentNode.insertBefore(hm, s);
+    })();
+</script>
 
 <div class="main-post-list hidden">
 
@@ -22,8 +31,9 @@ layout: default
             <span class="post-list__meta--tags-right">{{ post.tags }}</span>
           </div>
           <div class = "post-list-small-mate">
-          <a class="btn-border-small" href={{ post.url }}>阅读全文 » </a>
+            <a class="btn-border-small" href={{ post.url }}>阅读全文 » </a>
           </div>
+        </a>
       </div>
       <hr class="post-list__divider" />
     </li>
