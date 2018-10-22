@@ -8,11 +8,6 @@ avatarTitle: Fullmark
 avatarDesc: java开发
 url: "https://fullmark.github.io"
 
-# Comment
-comment:
-    provider: duoshuo
-    duoshuo:
-     short_name: Fullmark
 
 # Social
 social:
