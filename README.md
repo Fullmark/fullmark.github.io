@@ -1,6 +1,6 @@
-# leopard
+# fullmark
 
-[leopard](https://fullmark.github.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
+[fullmark](https://fullmark.github.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
 
 
 可关注我的公众号进一步了解\(^o^)/~
@@ -14,9 +14,9 @@ Jekyll 需要依赖：Ruby、bundler
 
 #### 获取博客模板
 
-> $ git clone https://github.com/MengZheK/kangblog.github.io.git  
+> $ git clone https://github.com/Fullmark/fullmark.github.io.git  
 
-或者直接[下载博客](https://github.com/MengZheK/kangblog.github.io/archive/master.zip)   
+或者直接[下载博客]( https://github.com/Fullmark/fullmark.github.io/archive/master.zip)   
 
 进kangblog.github.io/ 目录下， 开启本地服务 
 
@@ -29,4 +29,4 @@ Jekyll 需要依赖：Ruby、bundler
 
 
 #### 感谢   
-本博客在[Jekyll搭建个人博客](http://baixin.io/2016/10/jekyll_tutorials1/)和[Vno Jekyll](https://github.com/onevcat/vno-jekyll)基础上修改的。  
+本博客在[Jekyll搭建个人博客](https://github.com/MengZheK/kangblog.github.io/)基础上修改的。  
