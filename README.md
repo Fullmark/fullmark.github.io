@@ -1,11 +1,11 @@
 # fullmark
 
-[fullmark](https://fullmark.github.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
+[fullmark](http://fullmark.github.io) 是一个简洁的博客模板，如果你也喜欢请 Star ，你的 Star 是我持续更新的动力, 谢谢 😄.
 
 
 可关注我的公众号进一步了解\(^o^)/~
 
-![world](http://omjh2j5h3.bkt.clouddn.com/kanggzh.png)
+![world](http://fullmark.github.io/images/gongzhonghao.jpg)
 
 ### 使用条件
 
