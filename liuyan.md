@@ -26,7 +26,7 @@ title: 留言板「MESSAGE」
 虽然不知文字维系的缘分会有多长。
 既然来了，请尽量享受O(∩_∩)O~。
 
-<embed src="//music.163.com/style/swf/widget.swf?sid=2494952275&type=0&auto=1&width=310&height=90" width="296" height="110"  allowNetworking="all" style="position:fixed;left:0;bottom:0; z-index:900;"/>
+<embed src="//music.163.com/style/swf/widget.swf?sid=2494952275&type=0&auto=1&width=276&height=90" width="296" height="110"  allowNetworking="all" style="position:fixed;left:0;bottom:0; z-index:900;"/>
 
 <!--畅言 高速版-->
 <div id="SOHUCS" ></div>
