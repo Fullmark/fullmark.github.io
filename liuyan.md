@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 留言板「MESSAGE」
-comments: true 
+
 ---
 
 <img src="../images/welcomeToMyBlog.jpg" width="360" height="250" alt="huanying"/>
@@ -26,6 +26,7 @@ comments: true
 
 虽然不知文字维系的缘分会有多长。
 既然来了，请尽量享受O(∩_∩)O~。
+
 
 <!--畅言 高速版-->
 <div id="SOHUCS" ></div>
