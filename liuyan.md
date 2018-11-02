@@ -1,7 +1,6 @@
 ---
 layout: page
 title: 留言板「MESSAGE」
-
 ---
 
 <img src="../images/welcomeToMyBlog.jpg" width="360" height="250" alt="huanying"/>
@@ -26,6 +25,20 @@ title: 留言板「MESSAGE」
 
 虽然不知文字维系的缘分会有多长。
 既然来了，请尽量享受O(∩_∩)O~。
+
+
+
+
+<div>          
+<object width="330" height="180" data="http://music.163.com/style/swf/widget.swf?sid=441877316&type=0&auto=1&width=310&height=430" type="application/x-shockwave-flash"></object>           
+  </div> 
+
+
+<script src="/js/jquery.min.js"></script>
+<script src="/js/jquery.marquee.min.js"></script>
+
+
+<script src="/js/player.js"></script>
 
 
 <!--畅言 高速版-->
@@ -67,5 +80,16 @@ title: 留言板「MESSAGE」
 	} 
 })();
 </script>
+
+
+
+
+
+
+
+<!--
+<a href="/fangke/" style="color:#708090"> <h5>Recent Visitors</h5></a>  
+-->
+
 
 
